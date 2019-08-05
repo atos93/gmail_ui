@@ -1,4 +1,4 @@
-# gmail_ui
+# Gmail UI
 
 Gmail UI design with Flutter
 
